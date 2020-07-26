@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/78e4b4e7c1db4d88b25d7d4e090c4b49d7d333a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_3ce8f902a2c488175eeb721a82e1f007dd63048f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/d17ea835c6d8c5c07aa1cdf7c3a5a5b486deae98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_bba4e2874f126e734a969240a85c8195e229cdf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/28270aa605b0616200df9cb88145c07e5e815d72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_771f627cc1dc41704d626c7ac8a1939694fac3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.2.0/6be858a75633b1f0a2d24cad740db57775cb6871/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_92ff28851b5923d4242a855620ee990eb858de0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/bc5201e7d588d01529eaa840b3ae39efa592c84e/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_cef8a696dd524c425277d339eddeca82218bab45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/255fad5d47a8e8907c550af40bfcbdf86122d057/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_ad25358507a2e1e9bcd07e4e790153e547110152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/d17ea835c6d8c5c07aa1cdf7c3a5a5b486deae98/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0db844ada03e1fe1bb181bbeb2383e77362497c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/232951b7190ecc08d9ac3ac5a6c0e73851923e32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_0913b98570f069403602768c1dbe0af3b9b9c211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/b854ba4afecda39282e470bd8472cb937933d27d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_94581b2c596f815af5226e90ea49a8de65a9a2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/96c6d2f06a180fc2ab72c85e55ee2b3cf99192a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_b296e962225d79dd3266f1a0056c59d6148db8cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/85d30ed0fe66ca675c66cbc67740215c9dba8d62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_4326ffb13398a37930ab49f98fe4b7c2b8d601f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/bc5201e7d588d01529eaa840b3ae39efa592c84e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_b9fc6467797efc695c7e9972eea69bc722acaa26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/804519e60eb8ef589e7055a66381e5dbebf4970d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_8b42f78deb4c2a493c491fb227846b8e730d6f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/6afc195fbfc646b0bd20ead5020724999b3b3927/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_5e8f421b952ffb941d5c02a4dde4c298ba68599a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/af840e3e3d737e7e279e442e0fbcadd7254328d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_1f9f766a5d18325fa29bbb8c85c285b795b8fbca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/85d30ed0fe66ca675c66cbc67740215c9dba8d62/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_26900c7d0bd05afeefeed359ce90d3998f673c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/da14960359b4f4e945b3aa074ac4c620e0534018/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_503532fc44df80055545c67a5da87225c1e5960f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/b854ba4afecda39282e470bd8472cb937933d27d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ecff3086b8b0bfe66061eb0482e26badfd399562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/8de25609740b37bb3c4d8cc2608c83957c955e7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_1566710ea17b8111aaffc2ccd4dd834d1782e1b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/da14960359b4f4e945b3aa074ac4c620e0534018/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_b7056156bf75bb3f20f63cf242b210bb22a69826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pmandal/.android/build-cache/aa977f3bf9855014e2a7b8d978c08a5e571f8894/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/pmandal/Documents/N.Sikkim/Week 3/1. Deep Neural Network/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_b49d76a92eeb30cea951079d07dd23871895e2e6.jar" />
+    </item>
+
+</items>
